@@ -1,0 +1,6 @@
+Model,Accuracy,Training_Time,Dataset_Size
+Linear Regression,78,2,1000
+Decision Tree,82,5,1500
+Random Forest,89,10,2000
+KNN,80,3,1200
+Neural Network,94,15,2500
